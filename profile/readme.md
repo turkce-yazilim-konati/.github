@@ -30,4 +30,45 @@ Sen de bizimle bu yolculuğa katılabilirsin. Kendini hazır hissetmiyor ya da b
 - [Twitter](https://www.twitter.com/turkceyazilim)
 - [Instagram](https://www.instagram.com/turkceyazilimkonati)
 
+## Türkçelerimiz
+
+Türkçe Yazılım Konatı olarak biz yalnızca Türkiye Türkçesini ele almıyoruz. İşte çalışmalarımızı etkileyen Türkçenin kolları.
+
+1. Türkiye Türkçesi
+2. Azerbaycan Türkçesi
+3. Türkmen Türkçesi
+4. Gagauz Türkçesi
+5. Kazak Türkçesi
+6. Kırgız Türkçesi
+7. Özbek Türkçesi
+8. Tatar Türkçesi
+9. Kalay/Halaç Türkçesi
+10. Yugur Türkçesi
+11. Yakut Türkçesi
+12. Dolgan Türkçesi
+13. Hakas Türkçesi
+14. Şor Türkçesi
+15. Tuva Türkçesi
+16. Altay Türkçesi
+17. Karakalpak Türkçesi
+18. Nogay Türkçesi
+19. Sıbır Türkçesi
+20. Horosan Türkçesi
+21. Kaşgay Türkçesi
+22. Afşar Türkçesi
+23. Salar Türkçesi
+24. Başkurt Türkçesi
+25. Uygur Türkçesi
+26. Çuvaş Türkçesi
+27. Kırım-Tatar Türkçesi
+28. Kumuk Türkçesi
+29. Karaçay-Balkar Türkçesi
+30. Karaim Türkçesi
+31. Çulim Türkçesi
+32. Kuzey Kıbrıs Türkçesi
+33. Eski Türkçe
+34. Çağatay Türkçesi
+35. Osmanlı Türkçesi
+36. Daha saymadıklarımız.
+
 #### Daha çok bilgi için konata katılın konattaşımız olun. Aramızda gizli saklı bir iş kalmasın. 🍿
