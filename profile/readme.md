@@ -3,10 +3,16 @@
   
 Evet, bir düş kurduk. Türkçe tabanlı yazılım dilleri kurmak için yola koyulduk. **05 Kasım 2020** güngeninde konat olmanın ilk adımını attık. Onlarca takımdaş, yüzlerce takipçi ile yol almayı sürdürüyor. Yazılımcılar, dilbilimciler, Türkologlar, Türkçeseverler ve nice kişiler ile imece yolunda buluşup bu alanın işlerini gerçek kılmaya çalışmaktayız. Çalışmalarımızdan söz edecek olursak üzerinde emek verdiğimiz işlerimizi şöyle dizerek sayabiliriz:
 
-- [Yazılımca](https://github.com/turkce-yazilim-konati/yazilimca)
-- [Karamel Programlama Dili](https://github.com/turkce-yazilim-konati/karamel)
-- [Çevrimiçi Türkçe Programlama Dili](https://github.com/turkce-yazilim-konati/turkceprogramlamadili)
-- [YAP Programlama Dili](https://github.com/turkce-yazilim-konati/exampleasmbdmyapcodes) 
+- [YAZILIMCA](https://github.com/turkce-yazilim-konati/yazilimca):  
+[Sızılar](https://github.com/turkce-yazilim-konati/yazilimca/issues) - [Tartışmalar](https://github.com/turkce-yazilim-konati/yazilimca/discussions/) - [Tasarılar](https://github.com/turkce-yazilim-konati/yazilimca/projects) - [Bilegen](https://github.com/turkce-yazilim-konati/yazilimca/wiki)
+
+- [KARAMEL PROGRAMLAMA DİLİ](https://github.com/turkce-yazilim-konati/karamel):  
+[Sızılar](https://github.com/turkce-yazilim-konati/karamel/issues) - [Tartışmalar](https://github.com/turkce-yazilim-konati/karamel/discussions/) - [Tasarılar](https://github.com/turkce-yazilim-konati/karamel/projects) - [Bilegen](https://github.com/turkce-yazilim-konati/karamel/wiki)
+
+- [ÇEVRİMİÇİ TÜRKÇE PROGRAMLAMA DİLİ](https://github.com/turkce-yazilim-konati/turkceprogramlamadili):  
+[Sızılar](https://github.com/turkce-yazilim-konati/turkceprogramlamadili/issues) - [Tartışmalar](https://github.com/turkce-yazilim-konati/turkceprogramlamadili/discussions/) - [Tasarılar](https://github.com/turkce-yazilim-konati/turkceprogramlamadili/projects) - [Bilegen](https://github.com/turkce-yazilim-konati/turkceprogramlamadili/wiki)
+
+- [YAP PROGRAMLAMA DİLİ](https://github.com/turkce-yazilim-konati/exampleasmbdmyapcodes) 
 
 ## Birbirine bağlı bir topluluk
 
