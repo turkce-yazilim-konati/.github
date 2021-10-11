@@ -30,8 +30,8 @@ Siz de bizimle bu yolculuğa katılabilirsiniz. Kendinizi hazır bulmuyor ya da 
 
 ## Takımlar
 
-- Yazılım dili geliştiriciler
-- Türkçe karşılık belirleyiciler
+- Yazılım dili geliştiriciler: [Erhan BARIŞ](https://github.com/erhanbaris), [Mehmet Akif AKKUŞ](https://github.com/mehmetakifakkus), [Taha HELVACIOĞLU](https://github.com/helvacitaha)
+- Türkoloji ve Türkçe Danışmanları: [Hacı İbrahim DELİCE](https://github.com/IbrahimDelice), [Hicret DAŞDEMİR](https://github.com/turkmenistanli), [Cüneyt AKIN](https://github.com/Cuneytakin), Recai ÜNAL, Ayşe TARHAN, İsa SARI, Ümit EKER
 - Kılavuz yazıcılar
 - Altyapı ve iş kurucular
 - Edik işleri deneyiciler
