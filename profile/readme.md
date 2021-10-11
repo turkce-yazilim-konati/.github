@@ -14,6 +14,11 @@ Evet, bir düş kurduk. Türkçe tabanlı yazılım dilleri kurmak için yola ko
 
 - [YAP PROGRAMLAMA DİLİ](https://github.com/turkce-yazilim-konati/exampleasmbdmyapcodes) 
 
+## Bize Ulaşmak ve Katılmak İçin
+
+| [:octocat: <br> Türkçe Yazılım Konatı](https://turkce-yazilim-konati.github.io/) | [:octocat: <br> Github](https://github.com/turkce-yazilim-konati) | [:speech_balloon: <br> Discord](https://discord.gg/8ymtm9XPyQ) | [:bust_in_silhouette: <br> Facebook](https://www.facebook.com/turkceyazilimkonati) | [:busts_in_silhouette: <br> Facebook Grubu](https://www.facebook.com/groups/turkceyazilimkonati) | [:video_camera: <br> Youtube](https://www.youtube.com/channel/UCjI4mvKSfywzeUMpjrIYGRA) | [:hatching_chick: <br> Twitter](https://www.twitter.com/turkceyazilim) | [:camera: <br> Instagram](https://www.instagram.com/turkceyazilimkonati) |
+|-|-|-|-|-|-|-|-|
+
 ## Birbirine bağlı bir topluluk
 
 Konatımız 💗gönüllü olarak işlerini açık kaynak üzerinde kurup yürütüyor. Kubaşma ile birbirimizin işlerini tamamlıyoruz.
@@ -24,17 +29,6 @@ Konatımız 💗gönüllü olarak işlerini açık kaynak üzerinde kurup yürü
 - Yazılımcılar ile Türkçeciler birbirine daha da yakınlaşıyor ve daha sağlıklı sonuçlar elde ediliyor.
 
 Sen de bizimle bu yolculuğa katılabilirsin. Kendini hazır hissetmiyor ya da bu alana karşı bir yabancılık mı duyuyorsun? Öyle düşünme. Aramıza katıl ve senin için macera başlasın. Nasıl katkıda bulunacağın, nasıl aramıza katılacağın konusunda seni şöyle yönlendirmek isteriz. Github'da tartışmalara katıl. Discord üzerinden sürekli olarak iletişimde kal. Dilersen sosyal ağlardan bizi izle. Bunları yapabilmen için [Türkçe Yazılım Konatı](https://turkce-yazilim-konati.github.io/)'na tıklayıp uğraman yeterli. Yine de sizin için bağlantı örklerini burada dizelim.
-
-## Bize Ulaşmak ve Katılmak İçin
-
-- [Github](https://github.com/turkce-yazilim-konati)
-- [Discord ile sürekli iletişim](https://discord.gg/8ymtm9XPyQ)
-
-- [Facebook](https://www.facebook.com/turkceyazilimkonati)
-- [Facebook Gruplar](https://www.facebook.com/groups/turkceyazilimkonati)
-- [Youtube](https://www.youtube.com/channel/UCjI4mvKSfywzeUMpjrIYGRA)
-- [Twitter](https://www.twitter.com/turkceyazilim)
-- [Instagram](https://www.instagram.com/turkceyazilimkonati)
 
 ## Türkçelerimiz
 
