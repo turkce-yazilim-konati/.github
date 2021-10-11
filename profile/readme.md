@@ -21,12 +21,21 @@ Evet, bir düş kurduk. Türkçe tabanlı yazılım dilleri kurmak için yola ko
 
 Konatımız 💗gönüllü olarak işlerini açık kaynak üzerinde kurup yürütüyor. Kubaşma ile birbirimizin işlerini tamamlıyoruz.
 
-- Her geçen gün yeni bir alanında uzman ya da alana ilgili kişiler aramıza katılıyor.
+- Her geçen gün alanında uzman ya da alanla ilgili yeni kişiler aramıza katılıyor.
 - Türlü kaynaklardan, türlü yollardan katkılar ve yardımlar alıyoruz.
-- Yeni konularla gündemimiz şekilleniyor, yolumuz aydınlaşıyor.
+- Yeni konularla gündemimiz biçimleniyor, yolumuz aydınlaşıyor.
 - Yazılımcılar ile Türkçeciler birbirine daha da yakınlaşıyor ve daha sağlıklı sonuçlar elde ediliyor.
 
-Sen de bizimle bu yolculuğa katılabilirsin. Kendini hazır hissetmiyor ya da bu alana karşı bir yabancılık mı duyuyorsun? Öyle düşünme. Aramıza katıl ve senin için macera başlasın. Nasıl katkıda bulunacağın, nasıl aramıza katılacağın konusunda seni şöyle yönlendirmek isteriz. Github'da tartışmalara katıl. Discord üzerinden sürekli olarak iletişimde kal. Dilersen sosyal ağlardan bizi izle. Bunları yapabilmen için [Türkçe Yazılım Konatı](https://turkce-yazilim-konati.github.io/)'na tıklayıp uğraman yeterli. Yine de sizin için bağlantı örklerini burada dizelim.
+Siz de bizimle bu yolculuğa katılabilirsiniz. Kendinizi hazır bulmuyor ya da bu alana karşı bir yabancılık mı duyuyorsunuz? Öyle düşünmeyin. Aramıza katılın ve sizin için macera başlasın. Nasıl katkıda bulunacağın, nasıl aramıza katılacağın konusunda seni şöyle yönlendirmek isteriz. Github'da tartışmalara katılabilirsiniz. Discord üzerinden sürekli olarak iletişimde kalabilirsiniz. Dilerseniz sosyal ağlardan bizi izleyebilirsiniz. Bunları yapabilmeniz için [Türkçe Yazılım Konatı](https://turkce-yazilim-konati.github.io/)'na tıklayıp uğramanız yeterli.
+
+## Takımlar
+
+- Yazılım dili geliştiriciler
+- Türkçe karşılık belirleyiciler
+- Kılavuz yazıcılar
+- Altyapı ve iş kurucular
+- Edik işleri deneyiciler
+- Genel yardımcılar
 
 ## Türkçelerimiz
 
