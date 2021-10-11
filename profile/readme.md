@@ -2,7 +2,7 @@
 | [:octocat: <br> &nbsp;&nbsp;&nbsp;&nbsp;Türkçe Yazılım Konatı&nbsp;&nbsp;&nbsp;&nbsp;](https://turkce-yazilim-konati.github.io/) | [:octocat: <br> &nbsp;Github&nbsp;](https://github.com/turkce-yazilim-konati) | [:speech_balloon: <br> &nbsp;Discord&nbsp;](https://discord.gg/8ymtm9XPyQ) | [:bust_in_silhouette: <br> &nbsp;Facebook&nbsp;](https://www.facebook.com/turkceyazilimkonati) | [:busts_in_silhouette: <br> &nbsp;Facebook Grubu&nbsp;](https://www.facebook.com/groups/turkceyazilimkonati) | [:video_camera: <br> &nbsp;Youtube&nbsp;](https://www.youtube.com/channel/UCjI4mvKSfywzeUMpjrIYGRA) | [:hatching_chick: <br> &nbsp;Twitter&nbsp;](https://www.twitter.com/turkceyazilim) | [:camera: <br> &nbsp;Instagram&nbsp;](https://www.instagram.com/turkceyazilimkonati) |
 |-|-|-|-|-|-|-|-|
 
-![Türkçe Yazılım Konatı](https://raw.githubusercontent.com/turkce-yazilim-konati/.github/main/profile/d%C3%BC%C5%9F_kurduk_g%C3%B6rseli.jpg "DÜŞ KURDUK!")
+![Türkçe Yazılım Konatı](https://raw.githubusercontent.com/turkce-yazilim-konati/.github/main/profile/4731142.jpg "DÜŞ KURDUK!")
 
 Evet, bir düş kurduk. Türkçe tabanlı yazılım dilleri kurmak için yola koyulduk. **05 Kasım 2020** güngeninde konat olmanın ilk adımını attık. Onlarca takımdaş, yüzlerce takipçi ile yol almayı sürdürüyor. Yazılımcılar, dilbilimciler, Türkologlar, Türkçeseverler ve nice kişiler ile imece yolunda buluşup bu alanın işlerini gerçek kılmaya çalışmaktayız. Çalışmalarımızdan söz edecek olursak üzerinde emek verdiğimiz işlerimizi şöyle dizerek sayabiliriz:
 
