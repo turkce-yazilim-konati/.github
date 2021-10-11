@@ -1,4 +1,4 @@
-## Konatımıza hoş geldiniz. 👋
+## KONATIMIZA HOŞ GELDİNİZ 👋
 | [:octocat: <br> &nbsp;&nbsp;&nbsp;Türkçe Yazılım Konatı&nbsp;&nbsp;&nbsp;](https://turkce-yazilim-konati.github.io/) | [:octocat: <br> &nbsp;&nbsp;Github&nbsp;&nbsp;](https://github.com/turkce-yazilim-konati) | [:speech_balloon: <br> &nbsp;&nbsp;Discord&nbsp;&nbsp;](https://discord.gg/8ymtm9XPyQ) | [:bust_in_silhouette: <br> &nbsp;&nbsp;Facebook&nbsp;&nbsp;](https://www.facebook.com/turkceyazilimkonati) | [:busts_in_silhouette: <br> &nbsp;Facebook Grubu&nbsp;](https://www.facebook.com/groups/turkceyazilimkonati) | [:video_camera: <br> &nbsp;Youtube&nbsp;](https://www.youtube.com/channel/UCjI4mvKSfywzeUMpjrIYGRA) | [:hatching_chick: <br> &nbsp;Twitter&nbsp;](https://www.twitter.com/turkceyazilim) | [:camera: <br> &nbsp;Instagram&nbsp;](https://www.instagram.com/turkceyazilimkonati) |
 |-|-|-|-|-|-|-|-|
 
