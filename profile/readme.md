@@ -1,23 +1,21 @@
 ## Konatımıza hoş geldiniz. 👋
 ![Türkçe Yazılım Konatı](https://raw.githubusercontent.com/turkce-yazilim-konati/.github/main/profile/d%C3%BC%C5%9F_kurduk_g%C3%B6rseli.jpg "DÜŞ KURDUK!")
-  
-Evet, bir düş kurduk. Türkçe tabanlı yazılım dilleri kurmak için yola koyulduk. **05 Kasım 2020** güngeninde konat olmanın ilk adımını attık. Onlarca takımdaş, yüzlerce takipçi ile yol almayı sürdürüyor. Yazılımcılar, dilbilimciler, Türkologlar, Türkçeseverler ve nice kişiler ile imece yolunda buluşup bu alanın işlerini gerçek kılmaya çalışmaktayız. Çalışmalarımızdan söz edecek olursak üzerinde emek verdiğimiz işlerimizi şöyle dizerek sayabiliriz:
-
-- [YAZILIMCA](https://github.com/turkce-yazilim-konati/yazilimca):  
-[Sızılar](https://github.com/turkce-yazilim-konati/yazilimca/issues) - [Tartışmalar](https://github.com/turkce-yazilim-konati/yazilimca/discussions/) - [Tasarılar](https://github.com/turkce-yazilim-konati/yazilimca/projects) - [Bilegen](https://github.com/turkce-yazilim-konati/yazilimca/wiki)
-
-- [KARAMEL PROGRAMLAMA DİLİ](https://github.com/turkce-yazilim-konati/karamel):  
-[Sızılar](https://github.com/turkce-yazilim-konati/karamel/issues) - [Tartışmalar](https://github.com/turkce-yazilim-konati/karamel/discussions/) - [Tasarılar](https://github.com/turkce-yazilim-konati/karamel/projects) - [Bilegen](https://github.com/turkce-yazilim-konati/karamel/wiki)
-
-- [ÇEVRİMİÇİ TÜRKÇE PROGRAMLAMA DİLİ](https://github.com/turkce-yazilim-konati/turkceprogramlamadili):  
-[Sızılar](https://github.com/turkce-yazilim-konati/turkceprogramlamadili/issues) - [Tartışmalar](https://github.com/turkce-yazilim-konati/turkceprogramlamadili/discussions/) - [Tasarılar](https://github.com/turkce-yazilim-konati/turkceprogramlamadili/projects) - [Bilegen](https://github.com/turkce-yazilim-konati/turkceprogramlamadili/wiki)
-
-- [YAP PROGRAMLAMA DİLİ](https://github.com/turkce-yazilim-konati/exampleasmbdmyapcodes) 
-
-## Bize Ulaşmak ve Katılmak İçin
 
 | [:octocat: <br> Türkçe Yazılım Konatı](https://turkce-yazilim-konati.github.io/) | [:octocat: <br> Github](https://github.com/turkce-yazilim-konati) | [:speech_balloon: <br> Discord](https://discord.gg/8ymtm9XPyQ) | [:bust_in_silhouette: <br> Facebook](https://www.facebook.com/turkceyazilimkonati) | [:busts_in_silhouette: <br> Facebook Grubu](https://www.facebook.com/groups/turkceyazilimkonati) | [:video_camera: <br> Youtube](https://www.youtube.com/channel/UCjI4mvKSfywzeUMpjrIYGRA) | [:hatching_chick: <br> Twitter](https://www.twitter.com/turkceyazilim) | [:camera: <br> Instagram](https://www.instagram.com/turkceyazilimkonati) |
 |-|-|-|-|-|-|-|-|
+
+Evet, bir düş kurduk. Türkçe tabanlı yazılım dilleri kurmak için yola koyulduk. **05 Kasım 2020** güngeninde konat olmanın ilk adımını attık. Onlarca takımdaş, yüzlerce takipçi ile yol almayı sürdürüyor. Yazılımcılar, dilbilimciler, Türkologlar, Türkçeseverler ve nice kişiler ile imece yolunda buluşup bu alanın işlerini gerçek kılmaya çalışmaktayız. Çalışmalarımızdan söz edecek olursak üzerinde emek verdiğimiz işlerimizi şöyle dizerek sayabiliriz:
+
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> |
+|----------|----------|----------|----------|----------|
+| [:diamond_shape_with_a_dot_inside: YAZILIMCA](https://github.com/turkce-yazilim-konati/yazilimca) |[:question: Sızılar](https://github.com/turkce-yazilim-konati/yazilimca/issues) | [:speech_balloon: Tartışmalar](https://github.com/turkce-yazilim-konati/yazilimca/discussions/) | [:package: Tasarılar](https://github.com/turkce-yazilim-konati/yazilimca/projects) | [:green_book: Bilegen](https://github.com/turkce-yazilim-konati/yazilimca/wiki) |
+| [:diamond_shape_with_a_dot_inside: KARAMEL PROGRAMLAMA DİLİ](https://github.com/turkce-yazilim-konati/karamel) |[:question: Sızılar](https://github.com/turkce-yazilim-konati/karamel/issues) | [:speech_balloon: Tartışmalar](https://github.com/turkce-yazilim-konati/karamel/discussions/) | [:package: Tasarılar](https://github.com/turkce-yazilim-konati/karamel/projects) | [:green_book: Bilegen](https://github.com/turkce-yazilim-konati/karamel/wiki) |
+| [:diamond_shape_with_a_dot_inside: ÇEVRİMİÇİ TÜRKÇE PROGRAMLAMA DİLİ](https://github.com/turkce-yazilim-konati/turkceprogramlamadili) |[:question: Sızılar](https://github.com/turkce-yazilim-konati/turkceprogramlamadili/issues) | [:speech_balloon: Tartışmalar](https://github.com/turkce-yazilim-konati/turkceprogramlamadili/discussions/) | [:package: Tasarılar](https://github.com/turkce-yazilim-konati/turkceprogramlamadili/projects) | [:green_book: Bilegen](https://github.com/turkce-yazilim-konati/turkceprogramlamadili/wiki) |
+| [:diamond_shape_with_a_dot_inside: YAZILIMCA](https://github.com/turkce-yazilim-konati/exampleasmbdmyapcodes) |[:question: Sızılar](https://github.com/turkce-yazilim-konati/exampleasmbdmyapcodes/issues) | [:speech_balloon: Tartışmalar](https://github.com/turkce-yazilim-konati/exampleasmbdmyapcodes/discussions/) | [:package: Tasarılar](https://github.com/turkce-yazilim-konati/exampleasmbdmyapcodes/projects) | [:green_book: Bilegen](https://github.com/turkce-yazilim-konati/exampleasmbdmyapcodes/wiki) |
+
+
+
 
 ## Birbirine bağlı bir topluluk
 
