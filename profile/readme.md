@@ -31,22 +31,22 @@ Siz de bizimle bu yolculuğa katılabilirsiniz. Kendinizi hazır bulmuyor ya da 
 ## Konattaşlar ve Takımdaşlar
 
 - Takım Kurucular: 
-  - [Volkan TAŞ](https://github.com/volkantash): 05 Kasım 2020 - Günümüz
+  - [**Volkan TAŞ**](https://github.com/volkantash): 05 Kasım 2020 - Günümüz
 - Yazılım dili geliştiriciler: 
-  - [Erhan BARIŞ](https://github.com/erhanbaris): 05 Kasım 2020 - Günümüz
-  - [Mehmet Akif AKKUŞ](https://github.com/mehmetakifakkus): 
-  - [Taha HELVACIOĞLU](https://github.com/helvacitaha):
+  - [**Erhan BARIŞ**](https://github.com/erhanbaris): 05 Kasım 2020 - Günümüz
+  - [**Mehmet Akif AKKUŞ**](https://github.com/mehmetakifakkus): 
+  - [**Taha HELVACIOĞLU**](https://github.com/helvacitaha):
 - Türkoloji ve Türkçe Danışmanları: 
-  - [Prof. Dr. Hacı İbrahim DELİCE](https://github.com/IbrahimDelice): 30 Ağustos 2021 - Günümüz
-  - [Doç. Dr. Hicret DAŞDEMİR](https://github.com/turkmenistanli): 01 Mart 2021 - Günümüz
-  - [Prof. Dr. Cüneyt AKIN](https://github.com/Cuneytakin): 20 Eylül 2021 - Günümüz
-  - Öğr. Recai ÜNAL: 15 Kasım 2020 - Günümüz
-  - [Doç. Dr. Ayşe TARHAN](https://github.com/aysedalyan): 04 Mayıs 2021 - Günümüz
-  - Doç. Dr. İsa SARI: 
-  - Doç. Dr. Ümit EKER: 25 Ağustos 2021 - Günümüz
-  - Prof. Dr. Süer EKER:
+  - [**Prof. Dr. Hacı İbrahim DELİCE**](https://github.com/IbrahimDelice): 30 Ağustos 2021 - Günümüz
+  - [**Doç. Dr. Hicret DAŞDEMİR**](https://github.com/turkmenistanli): 01 Mart 2021 - Günümüz
+  - [**Prof. Dr. Cüneyt AKIN**](https://github.com/Cuneytakin): 20 Eylül 2021 - Günümüz
+  - **Öğr. Recai ÜNAL**: 15 Kasım 2020 - Günümüz
+  - [**Doç. Dr. Ayşe TARHAN**](https://github.com/aysedalyan): 04 Mayıs 2021 - Günümüz
+  - **Doç. Dr. İsa SARI**: 
+  - **Doç. Dr. Ümit EKER**: 25 Ağustos 2021 - Günümüz
+  - **Prof. Dr. Süer EKER**:
 - Bilişim Danışmanları:
-  - Prof. Dr. Ecir Uğur KÜÇÜKSİLLE: 13 Ekim 2021 - Günümüz
+  - **Prof. Dr. Ecir Uğur KÜÇÜKSİLLE**: 13 Ekim 2021 - Günümüz
 - Kılavuz yazıcılar
 - Altyapı ve iş kurucular
 - Edik işleri deneyiciler
