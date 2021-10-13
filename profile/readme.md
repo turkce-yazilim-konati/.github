@@ -28,7 +28,7 @@ Konatımız 💗gönüllü olarak işlerini açık kaynak üzerinde kurup yürü
 
 Siz de bizimle bu yolculuğa katılabilirsiniz. Kendinizi hazır bulmuyor ya da bu alana karşı bir yabancılık mı duyuyorsunuz? Öyle düşünmeyin. Aramıza katılın ve sizin için macera başlasın. Nasıl katkıda bulunacağın, nasıl aramıza katılacağın konusunda seni şöyle yönlendirmek isteriz. Github'da tartışmalara katılabilirsiniz. Discord üzerinden sürekli olarak iletişimde kalabilirsiniz. Dilerseniz sosyal ağlardan bizi izleyebilirsiniz. Bunları yapabilmeniz için [Türkçe Yazılım Konatı](https://turkce-yazilim-konati.github.io/)'na tıklayıp uğramanız yeterli.
 
-## Konattaşlar ve Takımdaşlar
+## Konatımızdaki Kimi Kişiler
 
 - Takım Kurucular: 
   - [**Volkan TAŞ**](https://github.com/volkantash): 05 Kasım 2020 - Günümüz
