@@ -32,7 +32,7 @@ Siz de bizimle bu yolculuğa katılabilirsiniz. Kendinizi hazır bulmuyor ya da 
 
 - Genel Yetkililer: 
   - [**Volkan TAŞ**](https://github.com/volkantash): 05 Kasım 2020 - Günümüz
-- Yazılım dili geliştiriciler: 
+- Yazılım Dili Geliştiriciler: 
   - [**Erhan BARIŞ**](https://github.com/erhanbaris): 05 Kasım 2020 - Günümüz
   - [**Mehmet Akif AKKUŞ**](https://github.com/mehmetakifakkus): 
   - [**Taha HELVACIOĞLU**](https://github.com/helvacitaha):
@@ -47,10 +47,9 @@ Siz de bizimle bu yolculuğa katılabilirsiniz. Kendinizi hazır bulmuyor ya da 
   - **Prof. Dr. Süer EKER**:
 - Bilişim Danışmanları:
   - **Prof. Dr. Ecir Uğur KÜÇÜKSİLLE**: 13 Ekim 2021 - Günümüz
-- Kılavuz yazıcılar
-- Altyapı ve iş kurucular
-- Edik işleri deneyiciler
-- Genel yardımcılar
+- Kılavuz Yazıcılar
+  - [**Volkan TAŞ**](https://github.com/volkantash): 05 Kasım 2020 - Günümüz
+- Deneyiciler
 - Konattaşlar
 
 ## Türkçelerimiz
