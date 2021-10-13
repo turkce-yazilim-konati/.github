@@ -32,7 +32,7 @@ Siz de bizimle bu yolculuğa katılabilirsiniz. Kendinizi hazır bulmuyor ya da 
 
 - Genel Yetkililer: 
   - [**Blşm. Uzm. Volkan TAŞ**](https://github.com/volkantash): Yazılım | 05 Kasım 2020 - Günümüz
-- Yazılım Dili Geliştiriciler: 
+- Yazılım Programlama Dili Geliştiricileri: 
   - [**Blşm. Uzm. Erhan BARIŞ**](https://github.com/erhanbaris): Yazılım | 05 Kasım 2020 - Günümüz
   - [**Dr. Mehmet Akif AKKUŞ**](https://github.com/mehmetakifakkus): Yazılım Mühendisliği
   - [**Öğrn. Taha HELVACIOĞLU**](https://github.com/helvacitaha): Yazılım
