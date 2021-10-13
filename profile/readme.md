@@ -28,15 +28,27 @@ Konatımız 💗gönüllü olarak işlerini açık kaynak üzerinde kurup yürü
 
 Siz de bizimle bu yolculuğa katılabilirsiniz. Kendinizi hazır bulmuyor ya da bu alana karşı bir yabancılık mı duyuyorsunuz? Öyle düşünmeyin. Aramıza katılın ve sizin için macera başlasın. Nasıl katkıda bulunacağın, nasıl aramıza katılacağın konusunda seni şöyle yönlendirmek isteriz. Github'da tartışmalara katılabilirsiniz. Discord üzerinden sürekli olarak iletişimde kalabilirsiniz. Dilerseniz sosyal ağlardan bizi izleyebilirsiniz. Bunları yapabilmeniz için [Türkçe Yazılım Konatı](https://turkce-yazilim-konati.github.io/)'na tıklayıp uğramanız yeterli.
 
-## Takımlar
+## Konattaşlar ve Takımdaşlar
 
-- Takım Kurucular: [Volkan TAŞ](https://github.com/volkantash)
-- Yazılım dili geliştiriciler: [Erhan BARIŞ](https://github.com/erhanbaris), [Mehmet Akif AKKUŞ](https://github.com/mehmetakifakkus), [Taha HELVACIOĞLU](https://github.com/helvacitaha)
-- Türkoloji ve Türkçe Danışmanları: [Hacı İbrahim DELİCE](https://github.com/IbrahimDelice), [Hicret DAŞDEMİR](https://github.com/turkmenistanli), [Cüneyt AKIN](https://github.com/Cuneytakin), Recai ÜNAL, [Ayşe DALYAN TARHAN](https://github.com/aysedalyan), İsa SARI, Ümit EKER
+- Takım Kurucular: 
+  - [Volkan TAŞ](https://github.com/volkantash): 05 Kasım 2020 - Günümüz
+- Yazılım dili geliştiriciler: 
+  - [Erhan BARIŞ](https://github.com/erhanbaris): 05 Kasım 2020 - Günümüz
+  - [Mehmet Akif AKKUŞ](https://github.com/mehmetakifakkus): 
+  - [Taha HELVACIOĞLU](https://github.com/helvacitaha):
+- Türkoloji ve Türkçe Danışmanları: 
+  - [Prof. Dr. Hacı İbrahim DELİCE](https://github.com/IbrahimDelice): 30 Ağustos 2021 - Günümüz
+  - [Doç. Dr. Hicret DAŞDEMİR](https://github.com/turkmenistanli): 01 Mart 2021 - Günümüz
+  - [Prof. Dr. Cüneyt AKIN](https://github.com/Cuneytakin): 20 Eylül 2021 - Günümüz
+  - Öğr. Recai ÜNAL: 15 Kasım 2020 - Günümüz
+  - [Doç. Dr. Ayşe TARHAN](https://github.com/aysedalyan): 04 Mayıs 2021 - Günümüz
+  - Doç. Dr. İsa SARI: 
+  - Doç. Dr. Ümit EKER: 25 Ağustos 2021 - Günümüz
 - Kılavuz yazıcılar
 - Altyapı ve iş kurucular
 - Edik işleri deneyiciler
 - Genel yardımcılar
+- Konattaşlar
 
 ## Türkçelerimiz
 
