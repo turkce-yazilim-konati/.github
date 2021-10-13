@@ -44,6 +44,9 @@ Siz de bizimle bu yolculuğa katılabilirsiniz. Kendinizi hazır bulmuyor ya da 
   - [Doç. Dr. Ayşe TARHAN](https://github.com/aysedalyan): 04 Mayıs 2021 - Günümüz
   - Doç. Dr. İsa SARI: 
   - Doç. Dr. Ümit EKER: 25 Ağustos 2021 - Günümüz
+  - Prof. Dr. Süer EKER:
+- Bilişim Danışmanları:
+  - Prof. Dr. Ecir Uğur KÜÇÜKSİLLE: 13 Ekim 2021 - Günümüz
 - Kılavuz yazıcılar
 - Altyapı ve iş kurucular
 - Edik işleri deneyiciler
