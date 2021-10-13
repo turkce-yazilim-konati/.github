@@ -1,6 +1,6 @@
 ## KONATIMIZA HOŞ GELDİNİZ 👋
-| [:octocat: <br> &nbsp;&nbsp;&nbsp;Türkçe Yazılım Konatı&nbsp;&nbsp;&nbsp;](https://turkce-yazilim-konati.github.io/) | [:octocat: <br> &nbsp;&nbsp;Github&nbsp;&nbsp;](https://github.com/turkce-yazilim-konati) | [:speech_balloon: <br> &nbsp;&nbsp;Discord&nbsp;&nbsp;](https://discord.gg/8ymtm9XPyQ) | [:bust_in_silhouette: <br> &nbsp;&nbsp;Facebook&nbsp;&nbsp;](https://www.facebook.com/turkceyazilimkonati) | [:busts_in_silhouette: <br> &nbsp;Facebook Grubu&nbsp;](https://www.facebook.com/groups/turkceyazilimkonati) | [:video_camera: <br> &nbsp;Youtube&nbsp;](https://www.youtube.com/channel/UCjI4mvKSfywzeUMpjrIYGRA) | [:hatching_chick: <br> &nbsp;Twitter&nbsp;](https://www.twitter.com/turkceyazilim) | [:camera: <br> &nbsp;Instagram&nbsp;](https://www.instagram.com/turkceyazilimkonati) |
-|-|-|-|-|-|-|-|-|
+| [:octocat: <br> Türkçe Yazılım Konatı](https://turkce-yazilim-konati.github.io/) | [:octocat: <br> Github](https://github.com/turkce-yazilim-konati) | [:speech_balloon: <br> Discord](https://discord.gg/8ymtm9XPyQ) | [:bust_in_silhouette: <br> Facebook](https://www.facebook.com/turkceyazilimkonati) | [:busts_in_silhouette: <br> Facebook Grubu](https://www.facebook.com/groups/turkceyazilimkonati) | [:video_camera: <br> Youtube](https://www.youtube.com/channel/UCjI4mvKSfywzeUMpjrIYGRA) | [:hatching_chick: <br> Twitter](https://www.twitter.com/turkceyazilim) | [:camera: <br> &nbsp;Instagram&nbsp;](https://www.instagram.com/turkceyazilimkonati) | [:office: <br> &nbsp;Linkedin&nbsp;](https://www.linkedin.com/groups/12567909/)
+|-|-|-|-|-|-|-|-|-|
 
 ![Türkçe Yazılım Konatı](https://raw.githubusercontent.com/turkce-yazilim-konati/.github/main/profile/4731142.jpg "DÜŞ KURDUK!")
 
