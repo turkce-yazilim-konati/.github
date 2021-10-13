@@ -34,7 +34,7 @@ Siz de bizimle bu yolculuğa katılabilirsiniz. Kendinizi hazır bulmuyor ya da 
   - [**Blşm. Uzm. Volkan TAŞ**](https://github.com/volkantash): Yazılımcı | 05 Kasım 2020 - Günümüz
 - Yazılım Dili Geliştiriciler: 
   - [**Blşm. Uzm. Erhan BARIŞ**](https://github.com/erhanbaris): Yazılımcı | 05 Kasım 2020 - Günümüz
-  - [**Kd. Yzlm. Müh. Dr. Mehmet Akif AKKUŞ**](https://github.com/mehmetakifakkus): Yazılımcı
+  - [**Dr. Mehmet Akif AKKUŞ**](https://github.com/mehmetakifakkus): Kıdemli Yazılım Mühendisi
   - [**Öğrn. Taha HELVACIOĞLU**](https://github.com/helvacitaha): Yazılımcı
 - Türkoloji ve Türkçe Danışmanları: 
   - [**Prof. Dr. Hacı İbrahim DELİCE**](https://github.com/IbrahimDelice): Türkoloji | 30 Ağustos 2021 - Günümüz
