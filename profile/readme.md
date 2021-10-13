@@ -31,24 +31,25 @@ Siz de bizimle bu yolculuğa katılabilirsiniz. Kendinizi hazır bulmuyor ya da 
 ## :busts_in_silhouette: Konatımızdaki Kimi Kişiler
 
 - Genel Yetkililer: 
-  - [**Blşm. Uzm. Volkan TAŞ**](https://github.com/volkantash): 05 Kasım 2020 - Günümüz
+  - [**Blşm. Uzm. Volkan TAŞ**](https://github.com/volkantash): Yazılımcı | 05 Kasım 2020 - Günümüz
 - Yazılım Dili Geliştiriciler: 
-  - [**Blşm. Uzm. Erhan BARIŞ**](https://github.com/erhanbaris): 05 Kasım 2020 - Günümüz
-  - [**Kd. Yzlm. Müh. Dr. Mehmet Akif AKKUŞ**](https://github.com/mehmetakifakkus): 
-  - [**Öğrn. Taha HELVACIOĞLU**](https://github.com/helvacitaha):
+  - [**Blşm. Uzm. Erhan BARIŞ**](https://github.com/erhanbaris): Yazılımcı | 05 Kasım 2020 - Günümüz
+  - [**Kd. Yzlm. Müh. Dr. Mehmet Akif AKKUŞ**](https://github.com/mehmetakifakkus): Yazılımcı
+  - [**Öğrn. Taha HELVACIOĞLU**](https://github.com/helvacitaha): Yazılımcı
 - Türkoloji ve Türkçe Danışmanları: 
-  - [**Prof. Dr. Hacı İbrahim DELİCE**](https://github.com/IbrahimDelice): 30 Ağustos 2021 - Günümüz
-  - [**Doç. Dr. Hicret DAŞDEMİR**](https://github.com/turkmenistanli): 01 Mart 2021 - Günümüz
-  - [**Prof. Dr. Cüneyt AKIN**](https://github.com/Cuneytakin): 20 Eylül 2021 - Günümüz
-  - **Dilb. Uzm. Recai ÜNAL**: 15 Kasım 2020 - Günümüz
-  - [**Doç. Dr. Ayşe TARHAN**](https://github.com/aysedalyan): 04 Mayıs 2021 - Günümüz
-  - **Doç. Dr. İsa SARI**: 
-  - **Doç. Dr. Ümit EKER**: 25 Ağustos 2021 - Günümüz
-  - **Prof. Dr. Süer EKER**:
+  - [**Prof. Dr. Hacı İbrahim DELİCE**](https://github.com/IbrahimDelice): Türkoloji | 30 Ağustos 2021 - Günümüz
+  - [**Doç. Dr. Hicret DAŞDEMİR**](https://github.com/turkmenistanli): Türkoloji | 01 Mart 2021 - Günümüz
+  - [**Prof. Dr. Cüneyt AKIN**](https://github.com/Cuneytakin): Türkoloji | 20 Eylül 2021 - Günümüz
+  - **Dilb. Uzm. Recai ÜNAL**: Türkçe | 15 Kasım 2020 - Günümüz
+  - [**Doç. Dr. Ayşe TARHAN**](https://github.com/aysedalyan): Türkçe | 04 Mayıs 2021 - Günümüz
+  - **Doç. Dr. İsa SARI**: Türkoloji
+  - **Doç. Dr. Ümit EKER**: Türkoloji | 25 Ağustos 2021 - Günümüz
+  - [**Dr. Öğr. Üyesi Mustafa Levent YENER**](https://github.com/mlyener): Türkoloji
+  - **Prof. Dr. Süer EKER**: Türkoloji
 - Bilişim Danışmanları:
   - [**Prof. Dr. Ecir Uğur KÜÇÜKSİLLE**](https://github.com/ecirkucuksille): 13 Ekim 2021 - Günümüz
 - Kılavuz Yazıcılar
-  - [**Blşm. Uzm. Volkan TAŞ**](https://github.com/volkantash): 05 Kasım 2020 - Günümüz
+  - [**Blşm. Uzm. Volkan TAŞ**](https://github.com/volkantash): Yazılımcı | 05 Kasım 2020 - Günümüz
 - Deneyiciler
 - Konattaşlar
 
