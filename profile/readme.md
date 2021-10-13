@@ -47,7 +47,7 @@ Siz de bizimle bu yolculuğa katılabilirsiniz. Kendinizi hazır bulmuyor ya da 
   - [**Dr. Öğr. Üyesi Mustafa Levent YENER**](https://github.com/mlyener): Türkoloji
   - **Prof. Dr. Süer EKER**: Türkoloji
 - Bilişim Danışmanları:
-  - [**Prof. Dr. Ecir Uğur KÜÇÜKSİLLE**](https://github.com/ecirkucuksille): 13 Ekim 2021 - Günümüz
+  - [**Prof. Dr. Ecir Uğur KÜÇÜKSİLLE**](https://github.com/ecirkucuksille): Bilgisayar Mühendisliği | 13 Ekim 2021 - Günümüz
 - Kılavuz Yazıcılar
   - [**Blşm. Uzm. Volkan TAŞ**](https://github.com/volkantash): Yazılımcı | 05 Kasım 2020 - Günümüz
 - Deneyiciler
