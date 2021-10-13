@@ -30,7 +30,7 @@ Siz de bizimle bu yolculuğa katılabilirsiniz. Kendinizi hazır bulmuyor ya da 
 
 ## :busts_in_silhouette: Konatımızdaki Kimi Kişiler
 
-- Takım Kurucular: 
+- Genel Yetkililer: 
   - [**Volkan TAŞ**](https://github.com/volkantash): 05 Kasım 2020 - Günümüz
 - Yazılım dili geliştiriciler: 
   - [**Erhan BARIŞ**](https://github.com/erhanbaris): 05 Kasım 2020 - Günümüz
