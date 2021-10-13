@@ -46,7 +46,7 @@ Siz de bizimle bu yolculuğa katılabilirsiniz. Kendinizi hazır bulmuyor ya da 
   - **Doç. Dr. Ümit EKER**: 25 Ağustos 2021 - Günümüz
   - **Prof. Dr. Süer EKER**:
 - Bilişim Danışmanları:
-  - **Prof. Dr. Ecir Uğur KÜÇÜKSİLLE**: 13 Ekim 2021 - Günümüz
+  - [**Prof. Dr. Ecir Uğur KÜÇÜKSİLLE**](https://github.com/ecirkucuksille): 13 Ekim 2021 - Günümüz
 - Kılavuz Yazıcılar
   - [**Blşm. Uzm. Volkan TAŞ**](https://github.com/volkantash): 05 Kasım 2020 - Günümüz
 - Deneyiciler
