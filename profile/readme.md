@@ -38,7 +38,7 @@ Siz de bizimle bu yolculuğa katılabilirsiniz. Kendinizi hazır bulmuyor ya da 
   - [**Öğrn. Taha HELVACIOĞLU**](https://github.com/helvacitaha): Yazılımcı
 - Türkoloji ve Türkçe Danışmanları: 
   - [**Prof. Dr. Hacı İbrahim DELİCE**](https://github.com/IbrahimDelice): Türkoloji | 30 Ağustos 2021 - Günümüz
-  - [**Doç. Dr. Hicret DAŞDEMİR**](https://github.com/turkmenistanli): Türkoloji | 01 Mart 2021 - Günümüz
+  - [**Dr. Hicret DAŞDEMİR**](https://github.com/turkmenistanli): Türkoloji | 01 Mart 2021 - Günümüz
   - [**Prof. Dr. Cüneyt AKIN**](https://github.com/Cuneytakin): Türkoloji | 20 Eylül 2021 - Günümüz
   - **Dilb. Uzm. Recai ÜNAL**: Türkçe | 15 Kasım 2020 - Günümüz
   - [**Doç. Dr. Ayşe TARHAN**](https://github.com/aysedalyan): Türkçe | 04 Mayıs 2021 - Günümüz
