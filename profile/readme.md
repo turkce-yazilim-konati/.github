@@ -1,7 +1,7 @@
 ## KONATIMIZA HOŞ GELDİNİZ 👋
 
 ![Türkçe Yazılım Konatı](https://raw.githubusercontent.com/turkce-yazilim-konati/.github/main/profile/4731142.jpg "DÜŞ KURDUK!")
-| [:octocat: **Türkçe Yazılım Konatı**](https://turkce-yazilim-konati.github.io/) | [:speech_balloon: **Discord**](https://discord.gg/8ymtm9XPyQ) | [:hatching_chick: **Twitter**](https://www.twitter.com/turkceyazilim) | [:office: **Linkedin**](https://www.linkedin.com/company/t%C3%BCrk%C3%A7e-yaz%C4%B1l%C4%B1m-konat%C4%B1/) | [:bust_in_silhouette: **Facebook**](https://www.facebook.com/turkceyazilimkonati) | [:cloud: **Reddit**](https://www.reddit.com/u/TurkceYazilimKonati) |
+| [:octocat: **Türkçe Yazılım Konatı**](https://turkce-yazilim-konati.github.io/) | [:speech_balloon: **Discord**](https://discord.gg/8ymtm9XPyQ) | [:hatching_chick: **Twitter**](https://www.twitter.com/turkceyazilim) | [:office: **Linkedin Beti**](https://www.linkedin.com/company/t%C3%BCrk%C3%A7e-yaz%C4%B1l%C4%B1m-konat%C4%B1/) | [:bust_in_silhouette: **Facebook Beti**](https://www.facebook.com/turkceyazilimkonati) | [:cloud: **Reddit Beti**](https://www.reddit.com/u/TurkceYazilimKonati) |
 |:-|:-|:-|:-|:-|:-|
 | [:octocat: **Github**](https://github.com/turkce-yazilim-konati) | [:camera: **Instagram**](https://www.instagram.com/turkceyazilimkonati) | [:video_camera: **Youtube**](https://www.youtube.com/channel/UCjI4mvKSfywzeUMpjrIYGRA) | [:office: **Linkedin Konatı**](https://www.linkedin.com/groups/12567909/) | [:bust_in_silhouette: **Facebok Konatı**](https://www.facebook.com/groups/turkceyazilimkonati) | [:cloud: **Reddit Konatı**](https://www.reddit.com/r/TurkceYazilimKonati) |
 
