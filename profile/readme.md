@@ -61,13 +61,13 @@ Türkçe Yazılım Konatı olarak biz yalnızca Türkiye Türkçesini ele almıy
 
 | Türkçeler           |                      |                     |                         |                         |
 | :------------------ |:-------------------- | :------------------ | :---------------------- | :---------------------- |
-| Türkiye Türkçesi    | Kalay/Halaç Türkçesi | Karakalpak Türkçesi | Uygur Türkçesi          | Öteki Türkçeler         |
+| Türkiye Türkçesi    | Kalay/Halaç Türkçesi | Karakalpak Türkçesi | Uygur Türkçesi          | Tatar Türkçesi          |
 | Azerbaycan Türkçesi | Yugur Türkçesi       | Nogay Türkçesi      | Çuvaş Türkçesi          | Osmanlı Türkçesi        |
 | Türkmen Türkçesi    | Yakut Türkçesi       | Sıbır Türkçesi      | Kırım-Tatar             | Çağatay Türkçesi        |
 | Gagavuz Türkçesi    | Dolgan Türkçesi      | Horosan Türkçesi    | Kumuk Türkçesi          | Eski Türkçe             |
 | Kazak Türkçesi      | Hakas Türkçesi       | Kaşgay Türkçesi     | Karaçay-Balkar Türkçesi | Kuzey Kıbrıs Türkçesi   |
 | Kırgız Türkçesi     | Şor Türkçesi         | Afşar Türkçesi      | Karaim Türkçesi         | Başkurt Türkçesi        |
 | Özbek Türkçesi      | Tuva Türkçesi        | Salar Türkçesi      | Çulim Türkçesi          | Altay Türkçesi          |
-| Tatar Türkçesi      |                      |                     |                         |                         |
+| Öteki Türkçeler     |                      |                     |                         |                         |
 
 #### Daha çok bilgi için konata katılın konattaşımız olun. Aramızda gizli saklı bir iş kalmasın. 🍿
