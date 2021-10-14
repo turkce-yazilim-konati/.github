@@ -1,5 +1,6 @@
 ## KONATIMIZA HOŞ GELDİNİZ 👋
 
+
 ![Türkçe Yazılım Konatı](https://raw.githubusercontent.com/turkce-yazilim-konati/.github/main/profile/4731142.jpg "DÜŞ KURDUK!")
 | :octocat: [**Türkçe Yazılım Konatı**](https://turkce-yazilim-konati.github.io/) | :speech_balloon: [**Discord**](https://discord.gg/8ymtm9XPyQ) | :hatching_chick: [**Twitter**](https://www.twitter.com/turkceyazilim) | :office: [**Linkedin Beti**](https://www.linkedin.com/company/t%C3%BCrk%C3%A7e-yaz%C4%B1l%C4%B1m-konat%C4%B1/) | :bust_in_silhouette: [**Facebook Beti**](https://www.facebook.com/turkceyazilimkonati) | :cloud: [**Reddit Beti**](https://www.reddit.com/u/TurkceYazilimKonati) |
 |:-|:-|:-|:-|:-|:-|
@@ -9,7 +10,7 @@
 Evet, bir düş kurduk. Türkçe tabanlı yazılım dilleri kurmak için yola koyulduk. **05 Kasım 2020** güngeninde konat olmanın ilk adımını attık. Onlarca takımdaş, yüzlerce takipçi ile yol almayı sürdürüyoruz. Yazılımcılar, dilbilimciler, Türkologlar, Türkçeseverler ve nice kişiler ile imece yolunda buluşup bu alanın işlerini gerçek kılmaya çalışmaktayız. Çalışmalarımızdan söz edecek olursak üzerinde emek verdiğimiz işlerimizi şöyle dizerek sayabiliriz:
 
 
-| **YAPITLAR** | &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;  | &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;  | &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;  |
+| **YAPITLAR** | SIZILAR<br>(issues) | TARTIŞMALAR<br>(discussions)  | TASARILAR<br>(projects)  | BİLEGEN<br>(wiki)  |
 |:---------|----------|----------|----------|----------|
 | [:diamond_shape_with_a_dot_inside: YAZILIMCA](https://github.com/turkce-yazilim-konati/yazilimca) <br> Yazılım dillerinin kuralları |[:grimacing: Sızılar](https://github.com/turkce-yazilim-konati/yazilimca/issues) | [:speech_balloon: Tartışmalar](https://github.com/turkce-yazilim-konati/yazilimca/discussions/) | [:package: Tasarılar](https://github.com/turkce-yazilim-konati/yazilimca/projects) | [:green_book: Bilegen](https://github.com/turkce-yazilim-konati/yazilimca/wiki) |
 | [:diamond_shape_with_a_dot_inside: KARAMEL PROGRAMLAMA DİLİ](https://github.com/turkce-yazilim-konati/karamel) <br> Türkçe tabanlı yazılım dili |[:grimacing: Sızılar](https://github.com/turkce-yazilim-konati/karamel/issues) | [:speech_balloon: Tartışmalar](https://github.com/turkce-yazilim-konati/karamel/discussions/) | [:package: Tasarılar](https://github.com/turkce-yazilim-konati/karamel/projects) | [:green_book: Bilegen](https://github.com/turkce-yazilim-konati/karamel/wiki) |
