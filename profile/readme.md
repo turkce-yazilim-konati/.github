@@ -1,7 +1,7 @@
 ## KONATIMIZA HOŞ GELDİNİZ 👋
 
 
-![Türkçe Yazılım Konatı](https://github.com/turkce-yazilim-konati/.github/blob/main/profile/4731142.jpg "DÜŞ KURDUK!")
+![Türkçe Yazılım Konatı](https://github.com/turkce-yazilim-konati/.github/blob/main/profile/images/t%C3%BCrk%C3%A7e_yaz%C4%B1l%C4%B1m_konat%C4%B1_github_duvar_resmi.jpg "DÜŞ KURDUK!")
 
 Evet, bir düş kurduk. Türkçe tabanlı yazılım programlama dilleri kurmak için yola koyulduk. **05 Kasım 2020** gününde bu amacı gerçek kılmak için birbirine yanaşan kişilerle bir insan kümesi olmanın, kısaca konat olmanın ilk adımını attık. Yalnızca Türkçe tabanlı yazılım programlama dilleri geliştirmiyoruz. Var olan yazılım programlama dillerine de yer veriyoruz. O dillere de dokunuyoruz. Onlarca takım arkadaşı, yüzlerce takipçi ile yol aladuruyoruz. Yazılımcılar, dilbilimciler, Türkologlar, Türkçeseverler ve nice kişiler ile imece yolunda buluşup bu alanın işlerini gerçek kılmak için terliyoruz. Çalışmalarımızdan söz edecek olursak üzerinde emek verdiğimiz işlerimizi şöyle dizerek sayabiliriz:
 
