@@ -8,15 +8,15 @@ Evet. Biz bir düş kurduk. Düşümüzü gerçek kılabilmek için kolları sı
 
 | YAPITLAR | SIZILAR<br>(issues) | TARTIŞMALAR<br>(discussions)  | TASARILAR<br>(projects)  | BİLEGEN<br>(wiki)  |
 |:---------|:----------:|:----------:|:----------:|:----------:|
-| [📦 YAZILIMCA](https://github.com/turkce-yazilim-konati/yazilimca) <br> Yazılım dillerinin kuralları |[🎫<br>Sızılar](https://github.com/turkce-yazilim-konati/yazilimca/issues) | [💬<br>Tartışmalar](https://github.com/turkce-yazilim-konati/yazilimca/discussions/) | [📋<br>Tasarılar](https://github.com/turkce-yazilim-konati/yazilimca/projects) | [📗<br>Bilegen](https://github.com/turkce-yazilim-konati/yazilimca/wiki) |
-| [📦 KARAMEL PROGRAMLAMA DİLİ](https://github.com/turkce-yazilim-konati/karamel) <br> Türkçe tabanlı yazılım dili |[🎫<br>Sızılar](https://github.com/turkce-yazilim-konati/karamel/issues) | [💬<br>Tartışmalar](https://github.com/turkce-yazilim-konati/karamel/discussions/) | [📋<br>Tasarılar](https://github.com/turkce-yazilim-konati/karamel/projects) | [📗<br>Bilegen](https://github.com/turkce-yazilim-konati/karamel/wiki) |
-| [📦 ÇEVRİMİÇİ TÜRKÇE PROGRAMLAMA DİLİ](https://github.com/turkce-yazilim-konati/turkceprogramlamadili) <br> Türkçe ile yazılımcılığın kanıtı |[🎫<br>Sızılar](https://github.com/turkce-yazilim-konati/turkceprogramlamadili/issues) | [💬<br>Tartışmalar](https://github.com/turkce-yazilim-konati/turkceprogramlamadili/discussions/) | [📋<br>Tasarılar](https://github.com/turkce-yazilim-konati/turkceprogramlamadili/projects) | [📗<br>Bilegen](https://github.com/turkce-yazilim-konati/turkceprogramlamadili/wiki) |
-| [📦 YAP PROGRAMLAMA DİLİ](https://github.com/turkce-yazilim-konati/exampleasmbdmyapcodes) <br> Yazılımcılığın köklerinde gezinen yazılım dili |[🎫<br>Sızılar](https://github.com/turkce-yazilim-konati/exampleasmbdmyapcodes/issues) | [💬<br>Tartışmalar](https://github.com/turkce-yazilim-konati/exampleasmbdmyapcodes/discussions/) | [📋<br>Tasarılar](https://github.com/turkce-yazilim-konati/exampleasmbdmyapcodes/projects) | [📗<br>Bilegen](https://github.com/turkce-yazilim-konati/exampleasmbdmyapcodes/wiki) |
-| [📦 KOJO PROGRAMLAMA DİLİ](https://github.com/turkce-yazilim-konati/kojo) <br> Tanışmaya değer bir dil |[🎫<br>Sızılar](https://github.com/turkce-yazilim-konati/kojo/issues) | [💬<br>Tartışmalar](https://github.com/turkce-yazilim-konati/kojo/discussions/) | [📋<br>Tasarılar](https://github.com/turkce-yazilim-konati/kojo/projects) | [📗<br>Bilegen](https://github.com/turkce-yazilim-konati/kojo/wiki) |
-| [📦 PYTHON PROGRAMLAMA DİLİ](https://github.com/turkce-yazilim-konati/python) <br> İngilizce tabanlı yazılım programlama dili |[🎫<br>Sızılar](https://github.com/turkce-yazilim-konati/python/issues) | [💬<br>Tartışmalar](https://github.com/turkce-yazilim-konati/python/discussions/) | [📋<br>Tasarılar](https://github.com/turkce-yazilim-konati/python/projects) | [📗<br>Bilegen](https://github.com/turkce-yazilim-konati/python/wiki) |
-| [📦 HTML](https://github.com/turkce-yazilim-konati/HTML) <br> HTML öğretme, yardımlaşma ve dahası |[🎫<br>Sızılar](https://github.com/turkce-yazilim-konati/HTML/issues) | [💬<br>Tartışmalar](https://github.com/turkce-yazilim-konati/HTML/discussions/) | [📋<br>Tasarılar](https://github.com/turkce-yazilim-konati/HTML/projects) | [📗<br>Bilegen](https://github.com/turkce-yazilim-konati/HTML/wiki) |
-| [📦 CSS](https://github.com/turkce-yazilim-konati/CSS) <br> CSS öğretme, yardımlaşma ve dahası |[🎫<br>Sızılar](https://github.com/turkce-yazilim-konati/CSS/issues) | [💬<br>Tartışmalar](https://github.com/turkce-yazilim-konati/CSS/discussions/) | [📋<br>Tasarılar](https://github.com/turkce-yazilim-konati/CSS/projects) | [📗<br>Bilegen](https://github.com/turkce-yazilim-konati/CSS/wiki) |
-| [📦 HTML-CSS](https://github.com/turkce-yazilim-konati/HTML-CSS) <br> HTML-CSS öğretme, yardımlaşma ve dahası |[🎫<br>Sızılar](https://github.com/turkce-yazilim-konati/HTML-CSS/issues) | [💬<br>Tartışmalar](https://github.com/turkce-yazilim-konati/HTML-CSS/discussions/) | [📋<br>Tasarılar](https://github.com/turkce-yazilim-konati/HTML-CSS/projects) | [📗<br>Bilegen](https://github.com/turkce-yazilim-konati/HTML-CSS/wiki) |
+| [📦 YAZILIMCA][📦yazılımca] <br> Yazılım dillerinin kuralları |[🎫<br>Sızılar][🎫yazılımca] | [💬<br>Tartışmalar][💬yazılımca] | [📋<br>Tasarılar][📋yazılımca] | [📗<br>Bilegen][📗yazılımca] |
+| [📦 KARAMEL PROGRAMLAMA DİLİ][📦karamel] <br> Türkçe tabanlı yazılım dili |[🎫<br>Sızılar][🎫karamel] | [💬<br>Tartışmalar][💬karamel] | [📋<br>Tasarılar][📋karamel] | [📗<br>Bilegen][📗karamel] |
+| [📦 ÇEVRİMİÇİ TÜRKÇE PROGRAMLAMA DİLİ][📦tpd] <br> Türkçe ile yazılımcılığın kanıtı |[🎫<br>Sızılar][🎫tpd] | [💬<br>Tartışmalar][💬tpd] | [📋<br>Tasarılar][📋tpd] | [📗<br>Bilegen][📗tpd] |
+| [📦 YAP PROGRAMLAMA DİLİ][📦yap] <br> Yazılımcılığın köklerinde gezinen yazılım dili |[🎫<br>Sızılar][🎫yap] | [💬<br>Tartışmalar][💬yap] | [📋<br>Tasarılar][📋yap] | [📗<br>Bilegen][📗yap] |
+| [📦 KOJO PROGRAMLAMA DİLİ][📦kojo] <br> Tanışmaya değer bir dil |[🎫<br>Sızılar][🎫kojo] | [💬<br>Tartışmalar][💬kojo] | [📋<br>Tasarılar][📋kojo] | [📗<br>Bilegen][📗kojo] |
+| [📦 PYTHON PROGRAMLAMA DİLİ][📦python] <br> İngilizce tabanlı yazılım programlama dili |[🎫<br>Sızılar][🎫python] | [💬<br>Tartışmalar][💬python] | [📋<br>Tasarılar][📋python] | [📗<br>Bilegen][📗python] |
+| [📦 HTML][📦html] <br> HTML öğretme, yardımlaşma ve dahası |[🎫<br>Sızılar][🎫html] | [💬<br>Tartışmalar][💬html] | [📋<br>Tasarılar][📋html] | [📗<br>Bilegen][📗html] |
+| [📦 CSS][📦css] <br> CSS öğretme, yardımlaşma ve dahası |[🎫<br>Sızılar][🎫css] | [💬<br>Tartışmalar][💬css] | [📋<br>Tasarılar][📋css] | [📗<br>Bilegen][📗css] |
+| [📦 HTML-CSS][📦html-css] <br> HTML-CSS öğretme, yardımlaşma ve dahası |[🎫<br>Sızılar][🎫html-css] | [💬<br>Tartışmalar][💬html-css] | [📋<br>Tasarılar][📋html-css] | [📗<br>Bilegen][📗html-css] |
 
 
 ## 💗 Birbirine bağlı bir topluluk
@@ -77,3 +77,59 @@ Türkçe Yazılım Konatı olarak biz yalnızca Türkiye Türkçesini ele almıy
 | Öteki Türkçeler     |                      |                     |                         |                         |
 
 #### Daha çok bilgi için konata katılın konattaşımız olun. Aramızda gizli saklı bir iş kalmasın. 🍿
+
+[📦yazılımca]: <https://github.com/turkce-yazilim-konati/yazilimca>
+[🎫yazılımca]: <https://github.com/turkce-yazilim-konati/yazilimca/issues>
+[💬yazılımca]: <https://github.com/turkce-yazilim-konati/yazilimca/discussions>
+[📋yazılımca]: <https://github.com/turkce-yazilim-konati/yazilimca/projects>
+[📗yazılımca]: <https://github.com/turkce-yazilim-konati/yazilimca/wiki>
+
+[📦karamel]: <https://github.com/turkce-yazilim-konati/karamel>
+[🎫karamel]: <https://github.com/turkce-yazilim-konati/karamel/issues>
+[💬karamel]: <https://github.com/turkce-yazilim-konati/karamel/discussions>
+[📋karamel]: <https://github.com/turkce-yazilim-konati/karamel/projects>
+[📗karamel]: <https://github.com/turkce-yazilim-konati/karamel/wiki>
+
+[📦tpd]: <https://github.com/turkce-yazilim-konati/turkceprogramlamadili>
+[🎫tpd]: <https://github.com/turkce-yazilim-konati/turkceprogramlamadili/issues>
+[💬tpd]: <https://github.com/turkce-yazilim-konati/turkceprogramlamadili/discussions>
+[📋tpd]: <https://github.com/turkce-yazilim-konati/turkceprogramlamadili/projects>
+[📗tpd]: <https://github.com/turkce-yazilim-konati/turkceprogramlamadili/wiki>
+
+[📦yap]: <https://github.com/turkce-yazilim-konati/exampleasmbdmyapcodes>
+[🎫yap]: <https://github.com/turkce-yazilim-konati/exampleasmbdmyapcodes/issues>
+[💬yap]: <https://github.com/turkce-yazilim-konati/exampleasmbdmyapcodes/discussions>
+[📋yap]: <https://github.com/turkce-yazilim-konati/exampleasmbdmyapcodes/projects>
+[📗yap]: <https://github.com/turkce-yazilim-konati/exampleasmbdmyapcodes/wiki>
+
+[📦kojo]: <https://github.com/turkce-yazilim-konati/kojo>
+[🎫kojo]: <https://github.com/turkce-yazilim-konati/kojo/issues>
+[💬kojo]: <https://github.com/turkce-yazilim-konati/kojo/discussions>
+[📋kojo]: <https://github.com/turkce-yazilim-konati/kojo/projects>
+[📗kojo]: <https://github.com/turkce-yazilim-konati/kojo/wiki>
+
+[📦python]: <https://github.com/turkce-yazilim-konati/python>
+[🎫python]: <https://github.com/turkce-yazilim-konati/python/issues>
+[💬python]: <https://github.com/turkce-yazilim-konati/python/discussions>
+[📋python]: <https://github.com/turkce-yazilim-konati/python/projects>
+[📗python]: <https://github.com/turkce-yazilim-konati/python/wiki>
+
+
+[📦html]: <https://github.com/turkce-yazilim-konati/HTML>
+[🎫html]: <https://github.com/turkce-yazilim-konati/HTML/issues>
+[💬html]: <https://github.com/turkce-yazilim-konati/HTML/discussions>
+[📋html]: <https://github.com/turkce-yazilim-konati/HTML/projects>
+[📗html]: <https://github.com/turkce-yazilim-konati/HTML/wiki>
+
+[📦css]: <https://github.com/turkce-yazilim-konati/CSS>
+[🎫css]: <https://github.com/turkce-yazilim-konati/CSS/issues>
+[💬css]: <https://github.com/turkce-yazilim-konati/CSS/discussions>
+[📋css]: <https://github.com/turkce-yazilim-konati/CSS/projects>
+[📗css]: <https://github.com/turkce-yazilim-konati/CSS/wiki>
+
+
+[📦html-css]: <https://github.com/turkce-yazilim-konati/HTML-CSS>
+[🎫html-css]: <https://github.com/turkce-yazilim-konati/HTML-CSS/issues>
+[💬html-css]: <https://github.com/turkce-yazilim-konati/HTML-CSS/discussions>
+[📋html-css]: <https://github.com/turkce-yazilim-konati/HTML-CSS/projects>
+[📗html-css]: <https://github.com/turkce-yazilim-konati/HTML-CSS/wiki>
