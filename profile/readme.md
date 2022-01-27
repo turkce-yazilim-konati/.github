@@ -52,9 +52,12 @@ Siz de bizimle bu yolculuğa katılabilirsiniz. Kendinizi hazır bulmuyor ya da 
   - **Dilb. Uzm. Recai ÜNAL**: Türkçe | 15 Kasım 2020 - Günümüz
   - [**Doç. Dr. Ayşe TARHAN**](https://github.com/aysedalyan): Türkçe | 04 Mayıs 2021 - Günümüz
   - **Doç. Dr. İsa SARI**: Türkoloji
-  - **Doç. Dr. Ümit EKER**: Türkoloji | 25 Ağustos 2021 - Günümüz
+  - [**Doç. Dr. Ümit EKER**](https://github.com/umiteker): Türkoloji | 25 Ağustos 2021 - Günümüz
   - [**Dr. Öğr. Üyesi Mustafa Levent YENER**](https://github.com/mlyener): Türkoloji
   - **Prof. Dr. Süer EKER**: Türkoloji
+  - [**Öğrn. Kübra SÜTÇÜ**](https://github.com/kubrasutcu): Türkoloji
+  - [**Uzm. Gül AKBAŞ**](https://github.com/gulakbas): Türkoloji
+  - **
 - Bilişim Danışmanları:
   - [**Prof. Dr. Ecir Uğur KÜÇÜKSİLLE**](https://github.com/ecirkucuksille): Bilgisayar Mühendisliği | 13 Ekim 2021 - Günümüz
 - Kılavuz Yazıcılar
