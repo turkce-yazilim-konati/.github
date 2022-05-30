@@ -15,8 +15,6 @@ Evet. Biz bir düş kurduk. Düşümüzü gerçek kılabilmek için kolları sı
 | [📦 KOJO PROGRAMLAMA DİLİ][📦kojo] <br> Tanışmaya değer bir dil |[🎫<br>Sızılar][🎫kojo] | [💬<br>Tartışmalar][💬kojo] | [📋<br>Tasarılar][📋kojo] | [📗<br>Bilegen][📗kojo] |
 | [📦 PYTHON PROGRAMLAMA DİLİ][📦python] <br> İngilizce tabanlı yazılım programlama dili |[🎫<br>Sızılar][🎫python] | [💬<br>Tartışmalar][💬python] | [📋<br>Tasarılar][📋python] | [📗<br>Bilegen][📗python] |
 | [📦 MARKDOWN][📦markdown] <br> Çabucak biçimlenmiş yazı yazmanın yolu.  |[🎫<br>Sızılar][🎫markdown] | [💬<br>Tartışmalar][💬markdown] | [📋<br>Tasarılar][📋markdown] | [📗<br>Bilegen][📗markdown] |
-| [📦 HTML][📦html] <br> HTML öğretme, yardımlaşma ve dahası |[🎫<br>Sızılar][🎫html] | [💬<br>Tartışmalar][💬html] | [📋<br>Tasarılar][📋html] | [📗<br>Bilegen][📗html] |
-| [📦 CSS][📦css] <br> CSS öğretme, yardımlaşma ve dahası |[🎫<br>Sızılar][🎫css] | [💬<br>Tartışmalar][💬css] | [📋<br>Tasarılar][📋css] | [📗<br>Bilegen][📗css] |
 | [📦 HTML-CSS][📦html-css] <br> HTML-CSS öğretme, yardımlaşma ve dahası |[🎫<br>Sızılar][🎫html-css] | [💬<br>Tartışmalar][💬html-css] | [📋<br>Tasarılar][📋html-css] | [📗<br>Bilegen][📗html-css] |
 
 
@@ -123,19 +121,6 @@ Türkçe Yazılım Konatı olarak biz yalnızca Türkiye Türkçesini ele almıy
 [💬markdown]: <https://github.com/turkce-yazilim-konati/Markdown/discussions>
 [📋markdown]: <https://github.com/turkce-yazilim-konati/Markdown/projects>
 [📗markdown]: <https://github.com/turkce-yazilim-konati/Markdown/wiki>
-
-[📦html]: <https://github.com/turkce-yazilim-konati/HTML>
-[🎫html]: <https://github.com/turkce-yazilim-konati/HTML/issues>
-[💬html]: <https://github.com/turkce-yazilim-konati/HTML/discussions>
-[📋html]: <https://github.com/turkce-yazilim-konati/HTML/projects>
-[📗html]: <https://github.com/turkce-yazilim-konati/HTML/wiki>
-
-[📦css]: <https://github.com/turkce-yazilim-konati/CSS>
-[🎫css]: <https://github.com/turkce-yazilim-konati/CSS/issues>
-[💬css]: <https://github.com/turkce-yazilim-konati/CSS/discussions>
-[📋css]: <https://github.com/turkce-yazilim-konati/CSS/projects>
-[📗css]: <https://github.com/turkce-yazilim-konati/CSS/wiki>
-
 
 [📦html-css]: <https://github.com/turkce-yazilim-konati/HTML-CSS>
 [🎫html-css]: <https://github.com/turkce-yazilim-konati/HTML-CSS/issues>
