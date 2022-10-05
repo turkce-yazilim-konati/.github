@@ -51,7 +51,7 @@ Siz de bizimle bu yolculuğa katılabilirsiniz. Kendinizi hazır bulmuyor ya da 
   - [**Doç. Dr. Ayşe TARHAN**](https://github.com/aysedalyan): Türkçe | 04 Mayıs 2021 - Günümüz
   - **Doç. Dr. İsa SARI**: Türkoloji
   - [**Doç. Dr. Ümit EKER**](https://github.com/umiteker): Türkoloji | 25 Ağustos 2021 - Günümüz
-  - [**Dr. Öğr. Üyesi Mustafa Levent YENER**](https://github.com/mlyener): Türkoloji
+  - [**Dr. Öğr. Üyesi Mustafa Levent YENER**](https://github.com/mlyener): Türkoloji ?? ?? ???? - 05 Ekim 2022
   - **Prof. Dr. Süer EKER**: Türkoloji
   - [**Öğrn. Kübra SÜTÇÜ**](https://github.com/kubrasutcu): Türkoloji
   - [**Uzm. Gül AKBAŞ**](https://github.com/gulakbas): Türkoloji
