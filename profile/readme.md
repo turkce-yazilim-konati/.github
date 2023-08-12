@@ -38,7 +38,7 @@ Siz de bizimle bu yolculuğa katılabilirsiniz. Kendinizi hazır bulmuyor ya da 
 - Genel Yetkililer: 
   - [**Blşm. Uzm. Volkan TAŞ**](https://github.com/volkantash): Yazılım | 05 Kasım 2020 - Günümüz
 - Yazılım Programlama Dili Geliştiricileri: 
-  - [**Blşm. Uzm. Erhan BARIŞ**](https://github.com/erhanbaris): Yazılım | 05 Kasım 2020 - Günümüz
+  - [**Blşm. Uzm. Erhan BARIŞ**](https://github.com/erhanbaris): Yazılım | 05 Kasım 2020 - 08 Nisan 2023
   - [**Dr. Mehmet Akif AKKUŞ**](https://github.com/mehmetakifakkus): Yazılım Mühendisliği
   - [**Öğrn. Taha HELVACIOĞLU**](https://github.com/helvacitaha): Yazılım | 30 Nisan 2021 - Günümüz
   - [**Öğrn. Şükrü Yiğit KARAAĞAÇ**](https://github.com/Sqv51): Yazılım | 30 Nisan 2021 - Günümüz
@@ -51,7 +51,7 @@ Siz de bizimle bu yolculuğa katılabilirsiniz. Kendinizi hazır bulmuyor ya da 
   - [**Doç. Dr. Ayşe TARHAN**](https://github.com/aysedalyan): Türkçe | 04 Mayıs 2021 - Günümüz
   - **Doç. Dr. İsa SARI**: Türkoloji
   - [**Doç. Dr. Ümit EKER**](https://github.com/umiteker): Türkoloji | 25 Ağustos 2021 - Günümüz
-  - [**Dr. Öğr. Üyesi Mustafa Levent YENER**](https://github.com/mlyener): Türkoloji ?? ?? ???? - 05 Ekim 2022
+  - [**Dr. Öğr. Üyesi Mustafa Levent YENER**](https://github.com/mlyener): Türkoloji | ?? ?? ???? - 05 Ekim 2022
   - **Prof. Dr. Süer EKER**: Türkoloji
   - [**Öğrn. Kübra SÜTÇÜ**](https://github.com/kubrasutcu): Türkoloji
   - [**Uzm. Gül AKBAŞ**](https://github.com/gulakbas): Türkoloji
